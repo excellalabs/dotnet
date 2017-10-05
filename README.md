@@ -8,13 +8,13 @@ We have followed the trend from Microsoft in becoming more and more polyglot on 
 
 # Highlights
 
-## [Excella creates an app jointly with Microsoft](https://github.com/excellalabs/skillustrator)
+## [Excella creates an app jointly with Microsoft](skillustrator.md)
 
 Excella teamed up with Microsoft to create an app leveraging some of Microsoft's new and exciting technology, notably its open-source web platform ASP.NET Core, and containers on Azure. I
 
-* [Open source repo](https://github.com/excellalabs/skillustrator)
-
 * [Channel9 interview](https://channel9.msdn.com/Blogs/DevRadio/DR1745) about the project
+
+[More details and the repo...](skillustrator.nd)
 
 ## [Excella's .NET Tech Radar](https://pages.excellalabs.com/dotnet-radar)
 
