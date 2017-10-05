@@ -14,7 +14,7 @@ Excella teamed up with Microsoft to create an app leveraging some of Microsoft's
 
 * [Channel9 interview](https://channel9.msdn.com/Blogs/DevRadio/DR1745) about the project
 
-[More details and the repo...](skillustrator.nd)
+[More details and the repo...](skillustrator.md)
 
 ## [Excella's .NET Tech Radar](https://pages.excellalabs.com/dotnet-radar)
 
